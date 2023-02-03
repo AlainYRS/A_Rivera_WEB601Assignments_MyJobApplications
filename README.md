@@ -1,0 +1,2 @@
+# A_Rivera_WEB601Assignments_MyJobApplications
+Assignment1 JavaScript 5
